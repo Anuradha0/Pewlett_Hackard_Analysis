@@ -108,15 +108,6 @@ ORDER BY de.dept_no;
 SELECT * FROM salaries
 ORDER BY to_date DESC;
 
--- SELECT emp_no,
---     first_name,
--- last_name,
---     gender
--- 	INTO emp_info
--- FROM employees
--- WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
--- AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
-
 --Joyning three tables to get empo=loyee 
 --infoincluding salary anf to date
 SELECT e.emp_no,
@@ -134,7 +125,6 @@ ON (e.emp_no = de.emp_no)
 WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 AND (e.hire_date BETWEEN '1985-01-01' AND '1988-12-31')
 AND (de.to_date = '9999-01-01');
- 
 
  -- List of managers per department
 SELECT  dm.dept_no,
