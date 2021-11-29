@@ -8,7 +8,7 @@ Pewlett Hackard is a large company with several thousand employees that has been
 
 ## Results
 ### The Number of Retiring Employees by Title
-- Our first table holds complex information from all retiring employees including titles from starting date till recent, along with employee numbers, first and last name.
+- This table contains the information of all employees retiering: titles from starting date till recent, along with employee numbers, first and last name.
 
 ![retirement_titles.](https://github.com/Anuradha0/Pewlett_Hackard_Analysis/blob/main/Images/retirement_titles.png)
 
@@ -20,7 +20,7 @@ Also,
 
 ### Mentorship Program Eligible Employees 
 
-- This table is a lot like the first retirement_titles table, only this has employees who were born in 1965. It is called mentorship_eligibilty and it presents us with a list of employees who are eligible to do mentorship program for future hires in in Pewlett Hackard.  
+- These employees are born in 1965. It is called mentorship_eligibilty and it presents us with a list of employees who are eligible to do mentorship program for future hires in in Pewlett Hackard.  
 
 ![mentorship_eligibilty.](https://github.com/Anuradha0/Pewlett_Hackard_Analysis/blob/main/Images/mentorship_eligibilty.png)
 
