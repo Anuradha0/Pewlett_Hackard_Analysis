@@ -10,7 +10,7 @@ Pewlett Hackard is a large company with several thousand employees that has been
 ### The Number of Retiring Employees by Title
 - Our first table holds complex information from all retiring employees including titles from starting date till recent, along with employee numbers, first and last name.
 
-![retirement_titles.](https://github.com/Anuradha0/Pewlett_Hackard_Analysis/main/Images/retirement_titles.png)
+![retirement_titles.](https://github.com/Anuradha0/Pewlett_Hackard_Analysis/blob/main/Images/retirement_titles.png)
 
 - There is a total count of 90398 positions to be open in Pewlett Hackard in the near future, as below are number of employess are going to retire:
 29414 Senior Engineer positions, 28254 Senior Staff, 14222 Engineer, 12243 Staff, 4502 Technique Leaders, 1761 Assistant Engineers and 2 Manager positions.
