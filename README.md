@@ -16,16 +16,16 @@ Pewlett Hackard is a large company with several thousand employees that has been
 29414 Senior Engineer positions, 28254 Senior Staff, 14222 Engineer, 12243 Staff, 4502 Technique Leaders, 1761 Assistant Engineers and 2 Manager positions.
 Also,
 
-![retiring_titles.](https://github.com/kossakova/Pewlett-Hackard-Analysis/blob/main/PNG/retiring_titles.png)
+![retiring_titles.](https://github.com/Anuradha0/Pewlett_Hackard_Analysis/blob/main/Images/retiring_titles.png)
 
 ### Mentorship Program Eligible Employees 
 
 - This table is a lot like the first retirement_titles table, only this has employees who were born in 1965. It is called mentorship_eligibilty and it presents us with a list of employees who are eligible to do mentorship program for future hires in in Pewlett Hackard.  
 
-![mentorship_eligibilty.](https://github.com/kossakova/Pewlett-Hackard-Analysis/blob/main/PNG/mentorship_eligibilty.png)
+![mentorship_eligibilty.](https://github.com/Anuradha0/Pewlett_Hackard_Analysis/blob/main/Images/mentorship_eligibilty.png)
 
 ## Summary
 
 90,398 employees will be retiring and total of 1549 qualified employees who are eligible to mentor new generation of Pewlett Hackard. For the upcoming "silver tsunami", it can prepare ourself to see how many qualified mentorship eligible employees we have for each title.
 
-![mentorship_eligibilty_titles.](https://github.com/kossakova/Pewlett-Hackard-Analysis/blob/main/PNG/mentorship_eligibilty_titles.png)
+![mentorship_eligibilty_titles.](https://github.com/Anuradha0/Pewlett_Hackard_Analysis/blob/main/Images/mentorship_eligibilty_titles.png)
