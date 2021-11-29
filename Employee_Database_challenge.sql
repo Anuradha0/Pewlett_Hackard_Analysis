@@ -1,3 +1,6 @@
+
+--1) Deliverables 1:
+-- From Q1-7
 SELECT e.emp_no, 
        e.first_name, 
 	   e.last_name,
@@ -14,9 +17,7 @@ ORDER BY emp_no
 select * from retirement_titles
 limit 10
 
-select * from departments
-limit 10
-
+-- From Q8-14
 -- Use Dictinct with Orderby to remove duplicate rows
 SELECT DISTINCT ON (emp_no) emp_no,
 first_name,
@@ -29,9 +30,7 @@ ORDER BY emp_no, to_date DESC;
 select * from unique_titles
 limit 10
 
-select count(*)
-from unique_titles
-
+-- From Q15-21
 SELECT COUNT(title), title
 INTO retiring_titles
 FROM unique_titles
@@ -41,6 +40,8 @@ ORDER BY COUNT(title) DESC;
 select * from retiring_titles
 limit 10
 
+--1) Deliverables 2:
+--From Q1-11
 SELECT DISTINCT ON (emp_no)
 e.emp_no, 
 e.first_name, 
