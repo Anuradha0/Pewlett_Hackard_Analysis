@@ -108,8 +108,7 @@ ORDER BY de.dept_no;
 SELECT * FROM salaries
 ORDER BY to_date DESC;
 
---Joyning three tables to get empo=loyee 
---infoincluding salary anf to date
+--Joining tables to get employeeinfo including salary
 SELECT e.emp_no,
     e.first_name,
     e.last_name,
