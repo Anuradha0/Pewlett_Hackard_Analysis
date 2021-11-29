@@ -1,13 +1,14 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of the analysis
-Pewlett Hackard is a large company with several thousand employees that has been around for a long time. In a few years numbers of employees will retire and leave open positions behind that need to be filled. The company is looking into the future in two ways. First, it is offering a retirement package for those who meet certain criteria. Second, its thinking about which positions needs to be filled in the future. In this project we analyzed big data sets to help the company to prepare strategies for the future. Down below we showed in detail two analyses for this project:
-- We determined the number of retiring employees per title.
-- We identified employees who are eligible to participate in a mentorship program.
+Pewlett Hackard is a large company with several thousand employees that has been around for a long time. Now they need an analysis of potential staff retirements. Because a significant portion of the company is close to requirement, HR would like to set up a mentorship program based on years of experience. In this project we analyzed big data sets to help the company to prepare strategies for the future.
+1: The Number of Retiring Employees by Title
+2: The Employees Eligible for the Mentorship Program
+3: A written report on the employee database analysis
 
 
 ## Results
-We created a table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Our table contains the most recent titles of each employee. To determine who  is eligible to participate in a mentorship program, we created another table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
+I have created a table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. The table contains the most recent titles of each employee. To determine who is eligible to participate in a mentorship program, we created another table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
 ### The Number of Retiring Employees by Title
 - Our first table holds complex information from all retiring employees including titles from starting date till recent, along with employee numbers, first and last name.
 
