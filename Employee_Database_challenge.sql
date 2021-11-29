@@ -63,29 +63,8 @@ ORDER BY emp_no
 select * from mentorship_eligibilty
 limit 10
 
-select count(*)
-from mentorship_eligibilty
-
 SELECT COUNT(title), title
 INTO mentorship_eligibilty_titles
 FROM mentorship_eligibilty
 GROUP BY title
 ORDER BY COUNT(title) DESC;
-
-select *
-from mentorship_eligibilty_titles
-
-SELECT DISTINCT ON (emp_no)
-       ut.emp_no, 
-       ut.first_name, 
-	   ut.last_name,
-       ut.title, 
-	   s.salary
-INTO retirement_salary
-FROM unique_titles as ut
-LEFT JOIN salaries as s 
-ON ut.emp_no = s.emp_no
-ORDER BY emp_no;
-
-select * from retirement_salary
-limit 10
